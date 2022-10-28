@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+animalsaustralia.org	TRUE	/	FALSE	1999999999	PHPSESSID	ie1shnhq7qlsuf5of6o5t4sjg0
+secure.merchantwarrior.com	TRUE	/	FALSE	1999999999	SERVERID	B
+

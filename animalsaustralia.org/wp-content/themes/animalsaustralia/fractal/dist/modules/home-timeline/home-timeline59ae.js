@@ -1,0 +1,1 @@
+Alpine.data("homeTimeline",(function(n){var t;return{activeIndex:0,running:!1,init:function(){this.startAutoplay()},nextIndex:function(){var t=this.activeIndex+1;t===n&&(t=0),this.activeIndex=t},startAutoplay:function(){var n=this;this.running=!0,t=setInterval((function(){n.nextIndex()}),5e3)},pauseAutoplay:function(){this.running=!1,clearInterval(t)}}}));

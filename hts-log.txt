@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 20:21:39 at https://animalsaustralia.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://animalsaustralia.org/ -O1 "C:\Users\dell\Desktop\barath\agri6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:23:33	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://animalsaustralia.org/)
+20:23:37	Error: 	"Forbidden" (403) at link https://animalsaustralia.org/xmlrpc.php?rsd (from https://animalsaustralia.org/)
+20:24:11	Warning: 	Found for https://animalsaustralia.org/my-aa/
+20:24:11	Warning: 	File has moved from https://animalsaustralia.org/my-aa/ to /my-aa/login/
+20:26:41	Error: 	Exit requested by shell or user
+20:26:54	Warning: 	Moved Permanently for https://animalsaustralia.org/?p=161
+20:26:54	Warning: 	File has moved from https://animalsaustralia.org/?p=161 to https://animalsaustralia.org/faqs/
+20:26:55	Warning: 	Moved Permanently for https://animalsaustralia.org/latest-news/the-reality-of-dairy-killing-calves/
+20:26:55	Warning: 	File has moved from https://animalsaustralia.org/latest-news/the-reality-of-dairy-killing-calves/ to https://animalsaustralia.org/latest-news/what-happens-to-dairy-calves/
+20:26:55	Warning: 	Moved Permanently for https://animalsaustralia.org/latest-news/how-covid-19-coronavirus-linked-treatment-animals/
+20:26:55	Warning: 	File has moved from https://animalsaustralia.org/latest-news/how-covid-19-coronavirus-linked-treatment-animals/ to /
+20:26:57	Warning: 	File not added due to mirror cancel: animalsaustralia.org/robots.txt
+20:26:57	Warning: 	Permanent Redirect for animalsaustralia.org/action/
+20:26:57	Warning: 	Redirected link is identical because of 'URL Hack' option: animalsaustralia.org/action/ and https://animalsaustralia.org/action/
+20:26:57	Warning: 	File has moved from animalsaustralia.org/action/ to https://animalsaustralia.org/action/
+20:26:57	Warning: 	Moved Permanently for https://animalsaustralia.org/?p=4384
+20:26:57	Warning: 	File has moved from https://animalsaustralia.org/?p=4384 to https://animalsaustralia.org/contact-us/
+20:26:58	Warning: 	Moved Permanently for https://animalsaustralia.org/?p=238
+20:26:58	Warning: 	File has moved from https://animalsaustralia.org/?p=238 to https://animalsaustralia.org/take-action/donate/
+20:26:58	Warning: 	Moved Permanently for https://animalsaustralia.org/?p=175
+20:26:58	Warning: 	File has moved from https://animalsaustralia.org/?p=175 to https://animalsaustralia.org/our-work/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 45 seconds : 363 links scanned, 351 files written (34646751 bytes overall) [15012383 bytes received at 43514 bytes/sec], 23558679 bytes transferred using HTTP compression in 240 files, ratio 15%, 1.3 requests per connection
+(3 errors, 18 warnings, 0 messages)
